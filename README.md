@@ -26,7 +26,7 @@ git clone https://github.com/uemuralc/Calculadora-TKinter
 cd Calculadora-Tkinter
 ```
 
-2. Execute a aplicação:
+**2. Execute a aplicação:**
 
 ```Bash
 python Calculadora.py
