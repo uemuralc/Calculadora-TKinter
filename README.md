@@ -11,12 +11,12 @@ Este projeto foi desenvolvido como uma aplicação prática para estudar o desen
 * **Operações Básicas:** Suporte a adição (+), subtração (-), multiplicação (X) e divisão (÷).
 * **Tratamento de Erros:** O sistema captura exceções matemáticas (como divisão por zero ou sintaxe inválida) e exibe um aviso de "Erro" na tela de forma amigável.
 * **Controle de Caracteres:** A tela possui um limite inteligente de 12 caracteres para evitar transbordamento de texto no display.
-* **Correção Rápida:** Botão de *Backspace* (⌫) para apagar o último dígito inserido e *All Clear* (AC) para limpar todo o histórico atual[cite: 2].
-* **Design Moderno:** Interface de tamanho fixo (480x640) não-redimensionável, garantindo que o layout dos botões e do display nunca quebre[cite: 2].
+* **Correção Rápida:** Botão de *Backspace* (⌫) para apagar o último dígito inserido e *All Clear* (AC) para limpar todo o histórico atual.
+* **Design Moderno:** Interface de tamanho fixo (480x640) não-redimensionável, garantindo que o layout dos botões e do display nunca quebre.
 
 ## 🛠️ Tecnologias Utilizadas
 * **Python 3.x:** Linguagem base.
-* **Tkinter (Built-in):** Biblioteca gráfica padrão do Python utilizada para a renderização das janelas, frames e botões[cite: 2].
+* **Tkinter (Built-in):** Biblioteca gráfica padrão do Python utilizada para a renderização das janelas, frames e botões.
 
 ## ⚙️ Como Executar o Projeto
 
